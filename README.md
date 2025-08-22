@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **JavaScript and React JS**
 
-- 👨‍💻 All of my projects are available at https://poornachary@netlify.app
+- 👨‍💻 All of my projects are available at poornachary.netlify.app
 
 - 📝 I regularly write articles on [https://dev.to/poornachary1998/emmets-make-life-easier-448o](https://dev.to/poornachary1998/emmets-make-life-easier-448o)
 
